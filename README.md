@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ML learner, Gopher . Building and breaking stuffs. Curently diving deep into machine learning, exploring golang always learning and experienting . Goal is to become an expert in ML and Golang backend development
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Meshack Mulaimu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulaimumeshack30@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
