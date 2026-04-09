@@ -1,36 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mulaimu00/Mulaimu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Meshack 👋
 
-Here are some ideas to get you started:
+**Backend Engineer · Go Developer · Fintech Builder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-ML learner, Gopher . Building and breaking stuffs. Curently diving deep into machine learning, exploring golang always learning and experienting . Goal is to become an expert in ML and Golang backend development
+*Building reliable backend systems for East Africa's financial infrastructure*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7591F&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Go+Developer;Fintech+%26+Distributed+Systems;Building+for+East+Africa)](https://git.io/typing-svg)
 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mulaimu00&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mulaimu00&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulaimu00&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mulaimu00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+- Building backend systems with **Go** — clean, fast, production-ready
+- Focused on **fintech infrastructure** and **distributed systems** for the Kenyan & East African market
+- Currently working on a **Go Daraja SDK** and an **MPESA Reconciliation Tool**
+- Deep-diving into **Kubernetes**, **Docker**, and the internals of distributed systems
+- Based in **Nairobi, Kenya** 🇰🇪
+- Open to **remote backend/fintech engineering roles**
+
+---
+
+## What I'm building
+
+| Project | Description | Stack |
+|---|---|---|
+| **Go Daraja SDK** | A Go-native SDK for Safaricom's Daraja 3.0 API | Go, REST |
+| **MPESA Reconciliation Tool** | Automated reconciliation engine for MPESA transactions | Go, PostgreSQL |
+
+---
+
+## Tech stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mulaimu00&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulaimu00&theme=radical&layout=compact&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mulaimu00&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## Currently learning
+
+```go
+var learning = []string{
+    "Go — advanced patterns & concurrency",
+    "Kubernetes — orchestration & deployment",
+    "Docker — containerisation & networking",
+    "Distributed Systems — consistency, replication, consensus",
+}
+```
+
+---
+
+<div align="center">
+
+*Always building. Always learning.*
+
+</div>
