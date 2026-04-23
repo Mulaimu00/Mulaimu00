@@ -23,12 +23,7 @@
 
 ---
 
-## What I'm building
 
-| Project | Description | Stack |
-|---|---|---|
-| **Go Daraja SDK** | A Go-native SDK for Safaricom's Daraja 3.0 API | Go, REST |
-| **MPESA Reconciliation Tool** | Automated reconciliation engine for MPESA transactions | Go, PostgreSQL |
 
 ---
 
